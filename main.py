@@ -9,7 +9,7 @@ import random
 
 
 
-token = "5224103068:AAFu7LRamMkLs706ngV5OYsU-iaYa3IB8Dc"
+token = ""
 updater = Updater(token , use_context=True)
 
 nosesize = ["voldermort" , "small" , "large" , " XL" , '2XL' , "elephant"]
